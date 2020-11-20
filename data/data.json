@@ -1,0 +1,49 @@
+[{
+  "id": 1,
+  "Imagen": "https://i.pinimg.com/originals/41/54/a4/4154a491ffd429bd207bf01f4b4a0bf3.jpg",
+  "Titulo": "Historia de la Alquimia",
+  "Escritor": "Luis E. Inigo",
+  "Año": 2010
+}, {
+  "id": 2,
+  "Imagen": "https://historiasdelorbisterrarum.files.wordpress.com/2013/08/portada-libro-edad-media.png?w=401",
+  "Titulo": "Historia en la Edad Media",
+  "Escritor": "Carmen Orcástegio",
+  "Año": 2004
+}, {
+  "id": 3,
+  "Imagen": "https://www.ibercultura.ch/upload/producto/imagen/min/29965/HistoriaArte.jpg",
+  "Titulo": "Historia del Arte",
+  "Escritor": "Quesada, Sebastian",
+  "Año": 2009
+}, {
+  "id": 4,
+  "Imagen": "https://www.codalario.com/datos/0/Historias_de_la_historia_4534.jpg",
+  "Titulo": "Historia de la Música",
+  "Escritor": "Lawrence Lindt",
+  "Año": 2000
+}, {
+  "id": 5,
+  "Imagen": "https://www.elargonauta.com/static/img/portadas/55480.jpg",
+  "Titulo": "Historia de la Opera",
+  "Escritor": "Roger Alier",
+  "Año": 1994
+}, {
+  "id": 6,
+  "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_5jbWL420rW5FxHIkB2XMi8EJf86p5YsUFA&usqp=CAU",
+  "Titulo": "Historia de China",
+  "Escritor": "Patricia Backley",
+  "Año": 2012
+}, {
+  "id": 7,
+  "Imagen": "https://meorum.files.wordpress.com/2010/06/libro2.jpg",
+  "Titulo": "Historia del Tiempo",
+  "Escritor": "Stephen Hawking",
+  "Año": 1987
+}, {
+  "id": 8,
+  "Imagen": "https://www.polifemo.com/static/img/portadas/_visd_0000JPG0186M.jpg",
+  "Titulo": "Corazón",
+  "Escritor": "Sandeep Jauhar",
+  "Año": 1988
+}]

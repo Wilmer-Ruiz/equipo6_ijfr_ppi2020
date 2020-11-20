@@ -1,0 +1,44 @@
+.title {
+  font-size: 35px;
+  width: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
+  z-index: 10;
+  background-color: #287D5B;
+  border-bottom: solid 1px #ccc;
+  padding: 10px;
+  margin: 0 auto;
+  color: black;
+}
+
+.logo {
+  width: 50px;
+  height: 80px;
+}
+
+.table{
+  margin: 0 auto;
+  border: 1px solid black;
+  width:100%
+}
+
+@media screen and (max-width: 800px) {
+    
+  /* Desaparecer el header */
+    table thead, th {
+       border: none;
+       clip: rect(0, 0, 0, 0);
+       height: 1px;
+       margin: -1px;
+       overflow: hidden;
+       padding: 0;
+       position: absolute;
+       width: 1px;
+    }
+  }
+.form-row{
+  margin: 0 auto; 
+  width:250px;
+}
+

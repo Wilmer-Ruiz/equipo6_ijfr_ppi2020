@@ -1,0 +1,23 @@
+.containerr {
+  background-color: #ccc;
+  border-bottom: solid 1px #ccc;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.container .subcontainer {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.container .subcontainer div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.logo {
+  color: #fff;
+  font-weight: bolder;
+  font-size: 22px;
+  width: 100px;
+}
